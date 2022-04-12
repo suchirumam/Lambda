@@ -141,7 +141,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--suppress UnresolvedMavenProperty -->
-                        <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                        <suiteXmlFile>/Users/suchirumam/Desktop/LambdaDemo/src/main/java/mobile.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
